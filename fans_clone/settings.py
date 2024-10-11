@@ -26,7 +26,7 @@ SECRET_KEY = '!*of--+n1p4gugm(+d&g)m)5^fpui+ga3um^=364)cdrgfqurj'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['www.eyosafiteliyas.com', '127.0.0.1', 'localhost',]
 
 
 # Application definition
